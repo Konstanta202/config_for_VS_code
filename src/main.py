@@ -3,4 +3,5 @@ def foo(str) -> str:
 
 
 if __name__ == '__main__':
-    print(foo('Konstantin'))
+    print(foo('Konstantin Paper'))
+ 
